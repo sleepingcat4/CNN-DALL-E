@@ -1,0 +1,14 @@
+Create a virtual environment in python
+
+python3 -m venv ./venv
+
+Activating virtual env
+
+.\venv\Scripts\activate
+
+libraries list
+
+pip install torch
+pip install pillow
+pip install opencv-python
+pip install numpy
