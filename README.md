@@ -101,3 +101,5 @@ Further we have deployed a readily usable web-app created using the DALL-E
 generated image dataset same as this project to deploy an image classiﬁer using
 
 lobe.ai using Microsoft Azure. Check it out! http://dalle.azurewebsites.net/
+
+(Python 3.8 has been used)
